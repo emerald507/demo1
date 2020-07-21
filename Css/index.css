@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(204, 212, 198);
+}
+p{color: darkgoldenrod;
+  font-size: 40px;
+  font-weight: bold;
+
+}
+table, th, td {
+    border: 1px solid black;
+}
+ul{color: rgb(185, 114, 6);
+
+}
+#header{color: brown;
+    
+}
